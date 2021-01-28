@@ -1,3 +1,3 @@
 <?php   
-  echo'<p> Hello World from Ya Boi </p>;'
+  echo'<p> Hello World from Ya Boi </p>';
 ?>
